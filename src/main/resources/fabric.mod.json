@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "morexplore",
+	"version": "${version}",
+	"name": "Morexplore",
+	"description": "A mod all about enhancing exploration in the game, usually opting for more immersive solutions!",
+	"authors": [
+		"sixeyes!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/morexplore/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.sixeyes.morexplore.Morexplore"
+		]
+	},
+	"mixins": [
+		"morexplore.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

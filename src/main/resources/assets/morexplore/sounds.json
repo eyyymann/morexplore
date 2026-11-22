@@ -1,0 +1,6 @@
+{
+  "chest_creak": {
+    "subtitle": "sound.morexplore.chest_creak",
+    "sounds": ["morexplore:chest_creak1"]
+  }
+}
