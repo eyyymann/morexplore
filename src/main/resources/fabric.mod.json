@@ -5,11 +5,11 @@
 	"name": "Morexplore",
 	"description": "A mod all about enhancing exploration in the game, usually opting for more immersive solutions!",
 	"authors": [
-		"sixeyes!"
+		"eyyymann"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/eyyymann/morexplore",
+		"issues": "https://github.com/eyyymann/morexplore/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/morexplore/icon.png",

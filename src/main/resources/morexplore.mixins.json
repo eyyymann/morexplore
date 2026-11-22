@@ -3,8 +3,7 @@
 	"package": "com.sixeyes.morexplore.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ChestBlockMixin",
-		"ExampleMixin"
+		"ChestBlockMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
